@@ -15,5 +15,11 @@
         "mainFile": "index.ts",
         "rootDir": "packages/calculator"
     },
+    "web/button": {
+        "scope": "coffeegerm.components",
+        "version": "0.0.1",
+        "mainFile": "index.ts",
+        "rootDir": "components/web/button"
+    },
     "$schema-version": "15.0.0"
 }
